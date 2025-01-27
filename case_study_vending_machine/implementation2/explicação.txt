@@ -1,0 +1,1 @@
+Remove o estado s5, assim, o valor do café fica alterado

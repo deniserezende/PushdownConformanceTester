@@ -1,0 +1,11 @@
+calls
+returns
+internals
+inputs
+outputs
+símbolos da pilha
+estados do modelo 
+transições: s(estado origem),a(ação),Z(símbolo da pilha),q(estado destino)
+#
+estado inicial do modelo 
+-
